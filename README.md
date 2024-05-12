@@ -18,17 +18,13 @@ LS08 Cryptor is a powerful Python library designed to bolster data security and 
 
 **Usage:**
 
-1. Install LS08 Cryptor via pip:
-   ```
-   pip install ls08-cryptor
-   ```
+1. **Download Python:** Install Python on your computer by downloading it from [python.org](https://www.python.org/downloads/).
 
-2. Import the library into your Python project:
-   ```python
-   import ls08_cryptor
-   ```
+2. **Download LS08 Cryptor:** Clone or download the LS08 Cryptor repository from GitHub to your local machine.
 
-3. Use LS08 Cryptor to encode and decode data securely within your application.
+3. **Run Start Script:** Navigate to the LS08 Cryptor directory and execute the `start.bat` file to initiate the application.
+
+4. **Encode and Decode Data:** Utilize LS08 Cryptor's intuitive interface to encode and decode data securely within your Python projects.
 
 **Contributing:**
 
@@ -37,11 +33,3 @@ Contributions are welcome! Feel free to submit bug reports, feature requests, or
 **License:**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Links:**
-
-- [Documentation](https://example.com/ls08-cryptor/docs)
-- [Issue Tracker](https://github.com/example/ls08-cryptor/issues)
-- [PyPI](https://pypi.org/project/ls08-cryptor/)
-  
-Start securing your Python applications with LS08 Cryptor today!
